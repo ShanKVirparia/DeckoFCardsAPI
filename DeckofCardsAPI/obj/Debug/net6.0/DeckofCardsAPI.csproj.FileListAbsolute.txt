@@ -1,0 +1,9 @@
+C:\Users\shanv\source\BootCamp_Repo\DeckofCardsAPI\DeckofCardsAPI\obj\Debug\net6.0\DeckofCardsAPI.csproj.AssemblyReference.cache
+C:\Users\shanv\source\BootCamp_Repo\DeckofCardsAPI\DeckofCardsAPI\obj\Debug\net6.0\DeckofCardsAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shanv\source\BootCamp_Repo\DeckofCardsAPI\DeckofCardsAPI\obj\Debug\net6.0\DeckofCardsAPI.AssemblyInfoInputs.cache
+C:\Users\shanv\source\BootCamp_Repo\DeckofCardsAPI\DeckofCardsAPI\obj\Debug\net6.0\DeckofCardsAPI.AssemblyInfo.cs
+C:\Users\shanv\source\BootCamp_Repo\DeckofCardsAPI\DeckofCardsAPI\obj\Debug\net6.0\DeckofCardsAPI.csproj.CoreCompileInputs.cache
+C:\Users\shanv\source\BootCamp_Repo\DeckofCardsAPI\DeckofCardsAPI\obj\Debug\net6.0\DeckofCardsAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\shanv\source\BootCamp_Repo\DeckofCardsAPI\DeckofCardsAPI\obj\Debug\net6.0\DeckofCardsAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\shanv\source\BootCamp_Repo\DeckofCardsAPI\DeckofCardsAPI\obj\Debug\net6.0\DeckofCardsAPI.RazorAssemblyInfo.cache
+C:\Users\shanv\source\BootCamp_Repo\DeckofCardsAPI\DeckofCardsAPI\obj\Debug\net6.0\DeckofCardsAPI.RazorAssemblyInfo.cs

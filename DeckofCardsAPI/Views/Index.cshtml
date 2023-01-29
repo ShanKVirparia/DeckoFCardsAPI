@@ -1,0 +1,20 @@
+﻿using DeckofCardsAPI.Models;
+
+namespace DeckofCardsAPI;
+
+@{
+    @model IEnumerable<Cards>
+
+    <div class="card-deck">
+                @foreach (var card in Model)
+    {
+                    <div class="card">
+                        <img src="@card.Image" class="card-img-top" alt="...">
+                        <div class="card-body">
+                            <p class="card-text">@card.Value of @card.Suit</p>
+                        </div>
+                    </div>
+    }
+    </div>
+
+}
